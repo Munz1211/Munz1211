@@ -10,7 +10,7 @@
 > 
 > Also im a Bot Developer Discord. Using Discord.JS library
 > 
-> its just perfect! 
+> its just ~perfect~! Maybe
   
 </div>
 
