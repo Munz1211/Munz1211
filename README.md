@@ -15,13 +15,13 @@
 </div>
 
 #### You can Contact me via
-- 
+- [My Telegram](https://t.me/munzdev)
 - 
 <div align="center">
 
 ![My Own Stat](https://github-readme-stats.vercel.app/api?username=Munz1211&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight)
   
-![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Munz1211&theme=tokyonight&layout=compact&hide_progress=true)
+![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Munz1211&theme=tokyonight&layout=compact)
  
 ![](https://komarev.com/ghpvc/?username=Munz1211&color=grey)
 
